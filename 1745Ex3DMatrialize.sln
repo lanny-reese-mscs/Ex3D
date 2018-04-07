@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "1745Ex3DMatrialize", ".", "{98A3D9B7-9C08-4CD4-82CF-05F3BE21839D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64164"
+		Debug.AspNetCompiler.PhysicalPath = "..\1745Ex3DMatrialize\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64164\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64164"
+		Release.AspNetCompiler.PhysicalPath = "..\1745Ex3DMatrialize\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64164\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64164"
+		SlnRelativePath = "..\1745Ex3DMatrialize\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A3D9B7-9C08-4CD4-82CF-05F3BE21839D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A3D9B7-9C08-4CD4-82CF-05F3BE21839D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E28C8CF-4667-4214-801A-507E040239CE}
+	EndGlobalSection
+EndGlobal
